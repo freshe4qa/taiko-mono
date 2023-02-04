@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/taikoxyz/taiko-mono/compare/protocol-v0.2.0...protocol-v0.2.1) (2023-02-04)
+
+
+### Bug Fixes
+
+* **protocol:** allow resolver to return zero address for EtherVault ([#13083](https://github.com/taikoxyz/taiko-mono/issues/13083)) ([cb34cf0](https://github.com/taikoxyz/taiko-mono/commit/cb34cf0e0fd182feb6eed4abf6ca9f6a2801e5f1))
+
 ## [0.2.0](https://github.com/taikoxyz/taiko-mono/compare/protocol-v0.1.0...protocol-v0.2.0) (2023-01-31)
 
 

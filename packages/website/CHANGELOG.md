@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.2.0...website-v0.3.0) (2023-02-04)
+
+
+### Features
+
+* add theme switch on website home page ([#13084](https://github.com/taikoxyz/taiko-mono/issues/13084)) ([34c5501](https://github.com/taikoxyz/taiko-mono/commit/34c550100331f5067609773b38d8e63c26ea3bac))
+
 ## [0.2.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.1.0...website-v0.2.0) (2023-01-31)
 
 
